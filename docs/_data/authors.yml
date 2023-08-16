@@ -1,0 +1,14 @@
+
+# /_data/authors.yml
+
+- ammoneit:
+  name             : "Rieke Ammoneit"
+  avatar           : "/assets/images/ammoneit.jpg"
+  email            : "rieke.ammoneit@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/rieke-ammoneit"
+  
+- reudenbach:
+  name             : "Chris Reudenbach"
+  avatar           : "/assets/images/reudenbach.jpg"
+  email            : "reudenbach@geo.uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach"
