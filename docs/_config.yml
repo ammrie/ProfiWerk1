@@ -116,16 +116,7 @@ defaults:
       layout: single
       sidebar:
         nav: "course_unit"
-  # unit01
-  - scope:
-      path: ""
-      type: unit01
-    values:
-      category: "Zusatzmaterial"
-      tags: "Unit 01"
-      layout: single
-      sidebar:
-        nav: "course_unit"    
+
   # pages
   - scope:
       path: "_pages"
