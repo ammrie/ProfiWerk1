@@ -6,63 +6,62 @@ header:
 ---
 
 
-## Idee
-Nachdem wir uns in das Verständnis der Nachhaltigkeit eingearbeitet und uns mit dem systemdynamischen Weltmodell beschäftigt haben soll es nun noch etwas "wirklicher" werden. Der systemdynamischen Modellierung mangelt es hierfür an dem Raum. Akteure (Menschen, Tiere, Pflanzen etc.) handeln und wechselwirken im Raum. Ich muss vor einem Baum stehen um ihn zu fällen oder eine Kuh muss auf der Weide sein um Gras abweiden zu können.
-Gleichzeitig ist es sehr schwer das Handeln z.B. einer Kuh in Bezug auf das Fressen von Gras in eine mathematische Gleichung zu fassen. Eher folgt es Regeln (z.B. "friß das saftigste Gras im Umkreis von einem Meter und gehe weiter")
+After we have familiarized ourselves with the understanding of sustainability and dealt with the system dynamic world model, it should now become even more "real". The system dynamic modeling lacks the space for this. Actors (people, animals, plants, etc.) act and interact in space. I have to stand in front of a tree to cut it down or a cow has to be in the pasture to graze on grass.
+At the same time, it is very difficult to put into a mathematical equation the actions of a cow, for example, in relation to eating grass. Rather, it follows rules (e.g. "eat the juiciest grass within a meter and move on")
 
-Ihr sollt nun ein einfaches NetLogo-Modell nutzen, um Aussagen über nachhaltiges Verhalten zu treffen. 
+You should now use a simple NetLogo model to make statements about sustainable behavior.
 
-Im Workshoppfad solltet ihr hier ca. 45 Minuten verwenden.
+In the workshop path you should use about 45 minutes here.
 {: .notice--success}
 
 <!--more-->
 
-### Agentbasierter Modellierung ein interaktiver Einstieg
-Zum Einstieg machen wir ein kurzes Spiel.
+### Agent-based modeling an interactive introduction
+To start with, let's play a short game.
 
-### Die NetLogo Modellierungssoftware
-Wir benötigen die Software NetLogo. Falls NetLogo auf euren Rechnern nicht installiert sein, könnt ihr die freie Software in einer passenden Version für euer Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Vor allem wenn ihr über unseren Workshop hinaus ein wenig stöbern und ausprobieren wollt ist diese Variante sinnvoll.
+### The NetLogo modeling software
+We need the software NetLogo. If NetLogo is not installed on your computer, you can download and install the free software in a suitable version for your operating system from the [download page](https://ccl.northwestern.edu/netlogo/6.2.0/). This variant makes sense, especially if you want to browse and try out a little more than our workshop.
 
-Falls ihr mit der lokalen Installation von NetLogo arbeitet, ladet ihr bitte die Modelldatei [nachhaltigesWirtschaften.nlogo]({{ site.baseurl }}/assets/scripts/nachhaltigesWirtschaften.nlogo){:target="_blank"} herunter und speichert sie an einem geeigneten Ort ab. Dann könnt ihr das Modell mit NetLogo öffnen
+If you work with the local installation of NetLogo, please download the model file [nachnachhaltigesWirtschaften.nlogo]({{ site.baseurl }}/assets/scripts/nachnachhaltigesWirtschaften.nlogo){:target="_blank"} and save it a suitable place. Then you can open the model with NetLogo
 {: .notice--info}
 
 
-Habt ihr keine Lust auf eine Installation oder sollte es beim Download Probleme geben könnt ihr auch mit der der hier unten eingebetten Online-Variante arbeiten. Ihr könnt das nachstehende Online-Modell mit einem Klick auf den Button "NetLogo exportieren" und herunterladen um es mit einer lokalen Installation von NetLogo öffnen.
+If you don't feel like installing it or if there are problems with the download, you can also work with the online version embedded below. You can download and download the online mockup below to open with a local installation of NetLogo by clicking the "Export NetLogo" button.
 
 {% include media url="/assets/misc/nachhaltigesWirtschaften.html" %}
 
-### NetLogo Modell Cooperation
-Das Modell Cooperation und die Adaption funktionieren beide nach den gleichen Grundregel:
+### NetLogo Model Cooperation
+The cooperation model and the adaptation both work according to the same basic rule:
 
-* die Kühe essen auf dem Feld auf dem sie sich befinden Gras und erhalten dadurch Energie
-* haben sie genug Energie reproduzieren sie sich
-* haben sie zu wenig Energie sterben sie
-* sie gehen nach jedem Zeitschritt weiter auf ein neues Grasfeld
-* das Gras wächst nach; halbhohes Gras schneller als ganz abgefressenes Gras
+* the cows eat grass in the field they are in and get energy from it
+* if they have enough energy they reproduce
+* if you don't have enough energy, you die
+* They advance to a new grass field after each time step
+* the grass grows back; half-grown grass faster than grass that has been completely eaten away
 
-* es gibt nachhaltige gehaltene Kühe (cooperative cows) und gierige Kühe (greedy cows)
-* die cooperative cows essen nur hohes Gras und fressen es bis zur Hälfte ab
-* die greedy cows essen sowohl hohes als auch halb hohes Gras 
+* There are sustainable cows (cooperative cows) and greedy cows (greedy cows)
+* the cooperative cows only eat tall grass and eat up to half of it
+* the greedy cows eat both tall and semi-tall grass
 
-### Probiert doch mal aus...
-Nach dem ihr jetzt das Modell entweder hier auf der Webseite oder mit Hilfe eurer lokalen Installation nutzen könnt ist es spannend einfach mal ein paar Dinge auszuprobieren. 
+### Give it a try...
+Now that you can use the model either here on the website or with the help of your local installation, it's exciting to try out a few things.
 
-Versucht einmal folgende Fragen zu beantworten in dem ihr die Einstellungen der Modellwelt durch die Schieberegeler anpasst:
+Try to answer the following questions by adjusting the settings of the model world using the sliders:
 
-* wie viele nachhaltig gehaltenen Kühe auf der Weide leben können
-* wie viele Kühe in nicht nachhaltiger Haltung auf die Weide passen
-* welche Kühe bei gemischter Haltung kurzfristig und welche Kühe langfristig dominieren
-* was scheint euch ein optimales Ergebnis zu sein? Warum?
+* how many sustainably raised cows can live on the pasture
+* how many unsustainably farmed cows fit on the pasture
+* which cows dominate in the short term and which cows dominate in the long term in mixed husbandry
+* What do you think is the best result? Why?
 
 
-## In den Rucksack...
+## In the backpack...
 
-Die Regeln für die Nutzung von Ressourcen sollten klar definiert und so einfach wie möglich sein. 
-Regeln müssen von den Akteuren akzeptiert werden bzw. das gemeinsam definierte Nutzungsziel muss erreicht werden.
-Die Entwicklung, Akzeptanz und Durchsetzung (Schieberegler!) von Regel sind die Basis der kollektiven Nutzung von Ressourcen.
-Damit wir keine (vermutlich nicht-umkehrbaren) Experimente an der echten Welt machen müssen können wir mit spezieller Modellierungssoftwar (NetLogo, Insightmaker...) vereinfachte Modelle entwickeln und testen.
+The rules for using resources should be clearly defined and as simple as possible.
+Rules must be accepted by the actors or the jointly defined usage goal must be achieved.
+The development, acceptance and enforcement (sliders!) of rules are the basis of the collective use of resources.
+So that we don't have to do any (probably irreversible) experiments on the real world, we can use special modeling software (NetLogo, Insightmaker...) to develop and test simplified models.
 
-## Lust auf mehr?
-Ein [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) zum Einstieg in NetLogo. 
+## Would like more?
+A [Tutorial](https://ccl.northwestern.edu/netlogo/docs/tutorial1.html) to get started with NetLogo.
 
-Mehr zum Hintergund von [Cooperation](http://ccl.northwestern.edu/rp/each/index.shtml).
+More on the background of [Cooperation](http://ccl.northwestern.edu/rp/each/index.shtml).

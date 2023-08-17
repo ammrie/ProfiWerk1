@@ -5,37 +5,37 @@ header:
   caption: 'Photo: **Rieke Ammoneit**'
 ---
 
-Was bedeuten eure Einsichten aus der Beschäftigung mit den Modellen für die echte Welt? 
-Könnt ihr einen Zusammenhang zum Leitthema der youcoN der Klimagerichtigkeit herstellen? 
+What do your insights from working with the models mean for the real world?
+Can you make a connection to the youcoN's main theme of climate justice?
 <!--more-->
 
-## Idee 
-Die Modellwelt soll nun verlassen werden und Erkenntnisse auf die Echtwelt übertragen. Am besten gelingt diese Arbeit sicherlich in der Diskussion. Sucht euch eine andere Person oder Gruppe mit der ihr diskutieren könnt. Auch jetzt besteht noch die Möglichkeit sich in die [Videokonferenz](https://webconf.hrz.uni-marburg.de/b/rie-6ic-uxf-bc6) einzuschalten.
+## idea
+The model world should now be left and knowledge transferred to the real world. The best way to do this is without a doubt in discussion. Find another person or group to discuss with.
 
-Im Workshopfad solltet ihr hier ca. 40 Minuten verwenden.
+You should use about 20 minutes here.
 {: .notice--success}
 
-### Überlegt und diskutiert zunächst...
-* inwiefern das Modell mit den Kühen den Zustand, in dem wir uns global befinden, erklärt.
-* Analogien (d.h. was nimmt die gleiche Rolle ein) zwischen dem Model und der Klimagerechtigkeit. 
-* welche Prognose das Modell für unsere Zukunft gibt.
-* welches Verhalten nach dem Modell sinnvoll wäre.
+### Think and discuss first...
+* how the cow model explains the state we are in globally.
+* Analogies (i.e. what fills the same role) between the model and climate justice.
+* what forecast the model gives for our future.
+* which behavior would be useful according to the model.
 
-### Diskutiert anschließend...
-* welche Hürden für Klimagerechtigkeit wir aus dem Modell ableiten können.
-* welche Lösungsansätze sind denkbar. 
+### Then discuss...
+* which hurdles for climate justice we can derive from the model.
+* what solutions are conceivable.
 
-## In den Rucksack...
-
-
-{: .notice--info} 
+## In the backpack...
 
 
-## Lust auf mehr?
+{: .notice--info}
 
-Ihr findet hier ein Modell das vereinfacht die aktuelle Handlungs-Situation zum Kimawandel (wahlweise auch Covid 19 o.ä.) abbildet. Es Basiert auf dem T.D. Seeleys Konzept der [Honigbienen-Demokratie](https://de.wikipedia.org/wiki/Thomas_Dyer_Seeley). Der Autor Mike Anderson beschreibt unter dem Info Tab ausführlich die Wirkungskonzepte des Modells [*ClimateWise1_2*](http://ccl.northwestern.edu/netlogo/models/community/ClimateWise1_2)
 
-Die Übersetzung eininge Einfügungen und die Anpassung an NetLogo 6.2 stammt von mir.
-{% include media url="/assets/misc/ClimateWise1_2_german.html" %}
+## Would like more?
 
-Falls ihr mit der lokalen Installation von NetLogo arbeitet, ladet bitte die Modelldatei [ClimateWise1_2_germa.nlogo]({{ site.baseurl }}/assets/scripts/ClimateWise1_2_germa.nlogo){:target="_blank"} herunter und speichert sie an einem geeigneten Ort ab. Dann könnt ihr das Modell mit NetLogo öffnen.
+Here you will find a model that shows the current situation regarding climate change (optionally also Covid 19 or similar) in a simplified way. It is based on the T.D. Seeley's concept of [honeybee democracy](https://de.wikipedia.org/wiki/Thomas_Dyer_Seeley). The author Mike Anderson describes the effect concepts of the model [*ClimateWise1_2*](http://ccl.northwestern.edu/netlogo/models/community/ClimateWise1_2) in detail under the info tab.
+
+I did the translation of some insertions and the adaptation to NetLogo 6.2.
+{% include media url="/assets/misc/ClimateWise1_2_english.html" %}
+
+If you are working with the local installation of NetLogo, please download the model file [ClimateWise1_2_germa.nlogo]({{ site.baseurl }}/assets/scripts/ClimateWise1_2_germa.nlogo){:target="_blank"} and save it to a suitable place. Then you can open the model with NetLogo.

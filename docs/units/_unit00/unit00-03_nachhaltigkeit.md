@@ -7,48 +7,48 @@ header:
 ---
 
 
-Nachdem wir nun festgestellt haben dass es sich bei dem Begriff um viel Theorie und Politik handelt sollten wir uns erinnern das vor ziemlich genau 50 Jahren bereits ein konkretes Modell diese Diskussion ausgelöst hat. 
+Now that we have established that the term involves a lot of theory and politics, we should remember that a concrete model triggered this discussion almost exactly 50 years ago.
 <!--more-->
 
-Für die Einheit *Nachhaltige Welt* solltet ihr etwa 20 Minuten Zeit benötigen.
-{: .notice--success} 
+You should need about 20 minutes for the *Sustainable World* unit.
+{: .notice--success}
 
-Wenn du dich also für die wissenschaftlichen Grundlagen der nachhaltigen Entwicklung interessierst, kommst du an dieser "Ur-Studie*  *[Grenzen des Wachstums](https://www.clubofrome.org/publication/the-limits-to-growth/)* des [Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome) kaum vorbei. Sie beschreibt quantitativ und für jeden nachvollziehbar (und daher auch diskutier- und kritisierbar) konkret das von Malthus erstmalig benannte Tragfähigkeitproblem anhand weltweiter Wirkungsmechanismen von eben diesen drei Säulen Umwelt, Wirtschaft und Gesellschaft. 
+So if you are interested in the scientific basis of sustainable development, you come to this "Ur-Studie* *[Limits to Growth](https://www.clubofrome.org/publication/the-limits-to-growth/) * of the [Club of Rome](https://de.wikipedia.org/wiki/Club_of_Rome). It describes quantitatively and in a way that everyone can understand (and therefore also be open to discussion and criticism) specifically the sustainability problem first mentioned by Malthus on the basis of worldwide Mechanisms of action of these three pillars environment, economy and society.
 
-Als Grundlage für den Bericht wurde von Jay Forrester ein mathematisches **Modell**, das sogenante *Weltmodell* entwickelt, das die wesentlichen Zusammenhänge und Wechselwirkungen anhand von Gleichungen beschreibt. Um auf dieser Grundlage zu einer konkreten Aussage zu kommen wurden alle zur damaligen Zeit benötigten und verfügbaren Daten eingespeist. Da dieses Modell computergestützt entwickelt wurde kann es durch Simulationen Vorhersagen machen. Mit weiteren Wissenschaftlerinnen zusammen haben dann seine Studierenden Donella and Dennis Meadows auf diesem Modell ihre Analysen für den Grenzen des Wachstums Bericht durchgeführt. 
+As a basis for the report, Jay Forrester developed a mathematical **model**, the so-called *world model*, which describes the essential relationships and interactions using equations. In order to come to a concrete statement on this basis, all the data required and available at the time were fed in. Since this model was developed with the help of a computer, it can make predictions through simulations. Together with other scientists, his students Donella and Dennis Meadows then carried out their analyzes for the Limits to Growth report on this model.
 
-## Systemdynamik - das Weltmodell 30 Jahre später
-Die Simulationen waren der Ausgangspunkt die Grenzen des Wachstums ohne Echtwelt-Experiment quantitativ aufzuzeigen und so erneut die Notwendigkeit von Ressourcenknappheit und sinnvollem Ressourceneinsatz aufzuzeigen und zur Diskussion zu stellen.  
+## System dynamics - the world model 30 years later
+The simulations were the starting point to quantitatively show the limits of growth without real-world experiments and thus once again to show the necessity of resource scarcity and sensible use of resources and to put them up for discussion.
 
-Forrester hatte nicht nur das Weltmodell entwickelt, sondern auch in Zusammenarbeit mit MIT Kollegen das Konzept der graphischen dynamischen Modellierung entwickelt. Dies ist eine deutliche Vereinfachung gegenüber herkömmlicher Programmierung durch graphische Elemente denen entsprechende Formeln und Wirkungen zugewiesen werden. 
+Forrester had not only developed the world model, but also developed the concept of graphical dynamic modeling in cooperation with MIT colleagues. This is a clear simplification compared to conventional programming using graphic elements to which corresponding formulas and effects are assigned.
 
-Da sowohl das *Weltmodell*  als auch derartige Programmierumgebungen stetig weiter entwickelt wurden können wir heute auf eine Vielzahl von Softwareprogammen und *Weltmodellen* zurückgreifen. Das bekannteste dürfte das  *Welt 3 Modell* aus dem Jahre 2008 sein. Aufgrund seiner "Berühmtheit" ist es in nahezu allen Systemdynamik Programmierumgebungen verfügbar. 
+Since both the *world model* and such programming environments have been continuously developed, we can now fall back on a large number of software programs and *world models*. The best known is probably the *World 3 model* from 2008. Due to its "famousness" it is available in almost all system dynamics programming environments.
 
-Für einen ersten kurzen Einstieg kann die Online Programmierumgebung *Insightmaker* verwendet werden, die eine großartige Leistungsmöglichkeit in die Systemdynamik bietet.    
+For a first brief introduction, the online programming environment *Insightmaker* can be used, which offers a great opportunity for performance in system dynamics.
 
-Du kannst dir das [Welt 3 Modell](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation), also die aktuelle Version des Original-Weltmodells online anschauen und mit Hilfe der Browser-gestüzten Software Insightmaker eigene Modellszenarien (Simulation) durchführen.
+You can view the [World 3 Model](https://insightmaker.com/insight/1954/The-World3-Model-Classic-World-Simulation), i.e. the current version of the original world model, online and with the help of the browser -supported software Insightmaker carry out own model scenarios (simulation).
 
-### Probiert doch mal...
+### Give it a try...
 
-* herauszufinden für wann der Wendepunkt des Wohlstandsniveaus prognostiziert ist
-* den Bezugszeitraum mit den Reglern zu variieren
-* Schau dir das Modell an - was ist dein Eindruck? Wie wirkt es auf dich?
+* Find out when the turning point in the prosperity level is predicted
+* to vary the reference period with the regulators
+* Look at the model - what is your impression? How does it affect you?
 
-## In den Rucksack...
+## In the backpack...
 
-Forresters Modell ist sehr komplex und ohne intensive Beschäftigung und viel Fachwissen kaum nachzuvollziehen. Jedoch liegt dem Modell trotz der hohen Komplexität eine extreme Vereinfachung der Realität zu Grunde. Der Grund ist einfach:
+Forrester's model is very complex and difficult to understand without intensive work and a great deal of specialist knowledge. However, despite the high level of complexity, the model is based on an extreme simplification of reality. The reason is simple:
 
-Modelle sind immer zweckgebundene Vereinfachungen.
-{: .notice--info} 
+Models are always purposeful simplifications.
+{: .notice--info}
 
-Wenn wir modellieren, konzentrieren wir uns **immer** auf die Faktoren und Zusammenhänge, die für unsere Fragestellung wichtig sind. Alles andere lassen wir außen vor. Nur so gelingt es uns zu Ergebnissen zu kommen. 
+When we model, we **always** focus on the factors and relationships that are important to our problem. We leave everything else out. This is the only way we can achieve results.
 
-## Lust auf mehr?
+## Would like more?
 
 ### Insightmaker
-[Insightermaker](https://insightmaker.com/) bietet noch viele andere implementierte Modelle. Du kannst dort auch eigene Modelle entwerfen und Simulationen durchführen. 
+[Insightermaker](https://insightmaker.com/) has many other implemented models. You can also design your own models and run simulations there.
 
-[Systemdynamische Modellierung](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) - Eine kurze Einführung (englisch). 
+[System Dynamic Modeling](https://www.youtube.com/watch?v=AnTwZVviXyY&t=627s) - A brief introduction.
 
 
 
