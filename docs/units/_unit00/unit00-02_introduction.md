@@ -12,7 +12,7 @@ Before we get into the *modeling of sustainability*, we should clarify what it i
 
 
 ### Today's understanding of sustainability
-The global *"modern concept"* of sustainability roots in the 1970s. In the [Club of Rome](https://en.wikipedia.org/wiki /Club_of_Rome) a *"sustainable world system"* is demanded, which is the first modern appearance of the term, which is being taken up rapidly: e.g. the World Council of Churches Commission for 1974 formulates the idea of a *"sustainable society"* and the first Green Party (in Great Britain) which passed its *"Manifesto for a Sustainable Society"* in 1975. However, it took until 1987 when the *World Commission on Environment and Development*, the so-called [Brundtland Commission](https://en.wikipedia.org/wiki/Brundtland-Report) published its report that *defined "sustainable development"* as:
+The global *"modern concept"* of sustainability roots in the 1970s. In the [Club of Rome](https://en.wikipedia.org/wiki /Club_of_Rome) a *"sustainable world system"* is demanded, which is the first modern appearance of the term, which is being taken up rapidly: e.g. the World Council of Churches Commission for 1974 formulates the idea of a *"sustainable society"* and the first Green Party (in Great Britain) which passed its *"Manifesto for a Sustainable Society"* in 1975. However, it took until 1987 when the *World Commission on Environment and Development*, the so-called [Brundtland Commission](https://en.wikipedia.org/wiki/Our_Common_Future) published its report that *defined "sustainable development"* as:
 
   *"[...] a development that satisfies the needs of the present without compromising the ability of future generations to meet their own needs"*
 
