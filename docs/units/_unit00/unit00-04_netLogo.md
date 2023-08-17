@@ -1,5 +1,5 @@
 ---
-title: Gierig oder solidarisch
+title: Greedy or Solidaric
 header:
   image: "/assets/images/greedy-splash.png"
   caption: 'Photo: **Rieke Ammoneit**'
