@@ -1,5 +1,5 @@
 ---
-title: Nachhaltige Welt
+title: Sustainable World
 toc: true
 header:
   image: "/assets/images/ltg-splash.jpg"
