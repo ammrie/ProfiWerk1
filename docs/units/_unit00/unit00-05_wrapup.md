@@ -9,7 +9,7 @@ What do your insights from working with the models mean for the real world?
 Can you make a connection to the youcoN's main theme of climate justice?
 <!--more-->
 
-## idea
+## Idea
 The model world should now be left and knowledge transferred to the real world. The best way to do this is without a doubt in discussion. Find another person or group to discuss with.
 
 You should use about 20 minutes here.
