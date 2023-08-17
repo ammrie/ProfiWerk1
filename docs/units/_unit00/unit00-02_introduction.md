@@ -1,5 +1,5 @@
 ---
-title: Einführung in den Workshop
+title: Introduction
 toc: true
 header:
   image: "/assets/images/00-unit-splash.jpg"
