@@ -19,7 +19,7 @@ To start with, let's play a short game.
 ### The NetLogo modeling software
 We need the software NetLogo. If NetLogo is not installed on your computer, you can download and install the free software in a suitable version for your operating system from the [download page](https://ccl.northwestern.edu/netlogo/6.2.0/). This variant makes sense, especially if you want to browse and try out a little more than our workshop.
 
-If you work with the local installation of NetLogo, please download the model file [nachnachhaltigesWirtschaften.nlogo]({{ site.baseurl }}/assets/scripts/nachnachhaltigesWirtschaften.nlogo){:target="_blank"} and save it a suitable place. Then you can open the model with NetLogo
+If you work with the local installation of NetLogo, please download the model file [nachnachhaltigesWirtschaften.nlogo]({{ site.baseurl }}/assets/scripts/sustainableFarming.nlogo){:target="_blank"} and save it a suitable place. Then you can open the model with NetLogo
 {: .notice--info}
 
 
