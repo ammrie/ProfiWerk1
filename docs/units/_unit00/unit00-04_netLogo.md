@@ -25,7 +25,7 @@ If you work with the local installation of NetLogo, please download the model fi
 
 If you don't feel like installing it or if there are problems with the download, you can also work with the online version embedded below. You can download and download the online mockup below to open with a local installation of NetLogo by clicking the "Export NetLogo" button.
 
-{% include media url="/assets/misc/nachhaltigesWirtschaften.html" %}
+{% include media url="/assets/misc/sustainableFarming.html" %}
 
 ### NetLogo Model Cooperation
 You should use about 20 minutes here.
