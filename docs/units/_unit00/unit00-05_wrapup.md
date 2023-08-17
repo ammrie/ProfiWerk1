@@ -1,5 +1,5 @@
 ---
-title: Klimagerechtigkeit
+title: Climate Justice
 header:
   image: "/assets/images/climate-splash.jpg"
   caption: 'Photo: **Rieke Ammoneit**'
