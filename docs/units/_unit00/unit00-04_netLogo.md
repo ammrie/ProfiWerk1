@@ -11,9 +11,6 @@ At the same time, it is very difficult to put into a mathematical equation the a
 
 You should now use a simple NetLogo model to make statements about sustainable behavior.
 
-In the workshop path you should use about 45 minutes here.
-{: .notice--success}
-
 <!--more-->
 
 ### Agent-based modeling an interactive introduction
@@ -31,6 +28,9 @@ If you don't feel like installing it or if there are problems with the download,
 {% include media url="/assets/misc/nachhaltigesWirtschaften.html" %}
 
 ### NetLogo Model Cooperation
+You should use about 20 minutes here.
+{: .notice--success}
+
 The cooperation model and the adaptation both work according to the same basic rule:
 
 * the cows eat grass in the field they are in and get energy from it
