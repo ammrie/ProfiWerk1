@@ -22,12 +22,12 @@
 
 # Serve on GitHub
 url: https://ammrie.github.io
-baseurl: "/LiMa/"
+baseurl: "/Profiwerk1/"
 
 
 ##### Title ###################################################################
-title: Modelling Sustainability
-name: &name " Modelling Sustainability" # &name is a YAML anchor which can be *referenced later
+title: ProfiWerk
+name: &name " ProfiWerk" # &name is a YAML anchor which can be *referenced later
 #email: ammoneit@geo.uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource
@@ -43,7 +43,7 @@ description: >- # this means to ignore newlines until next item
 ##### Site configuration ######################################################
 title_separator          : "|"
 excerpt_separator        : <!--more-->
-locale                   : "en-EN"
+locale                   : "de-DE"
 
 
 
@@ -111,7 +111,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "Workshop"
+      category: "Seminar"
       tags: "Unit 00"
       layout: single
       sidebar:
@@ -140,7 +140,7 @@ plugins:
 # Handling Reading
 encoding: UTF-8
 
-repository: ammrie/LiMa
+repository: ammrie/ProfiWerk1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
