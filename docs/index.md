@@ -1,5 +1,5 @@
 ---
-title: ProfiWerk
+title: Workshop
 layout: splash
 date: '2018-02-06 13:00:00 +0100'
 header:
