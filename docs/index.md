@@ -12,7 +12,7 @@ header:
   cta_url: "/units.html"
 excerpt: An introduction to the importance of modeling for sustainable development.
 feature_row_intro:
-- excerpt: Praxismodul im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie) an der Philipps Universität Marburg{:target="_blank"} 
+- excerpt: Praxismodul im [Lehramtsstudium Erdkunde](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/erdkunde-lehramt-gymnasium/herzlich-willkommen-beim-bachelor-geographie){:target="_blank"} 
 feature_row_ilos:
 - image_path: "/assets/images/envobs_ilos.jpg"
   alt: PC monitor laying in the garden of the institute.
@@ -24,7 +24,6 @@ feature_row_ilos:
 Herzlich willkommen im Profiwerk!
 Hier sollen Sie die Bedeutung fachwissenschaftlicher Leitideen sowie fachlicher Methoden zur Erkenntnisgewinnung als Grundlage für professions- und bildungstheoretisch
 fundiertes Handeln in der fachlichen Bildung reflektieren und so das gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess Aufgaben überführen. 
-
 
 Auf "zum Kursinhalt" geht es los.
 {: .notice--success}
@@ -40,7 +39,6 @@ Am Ende dieses Moduls können Sie
 * die Komplexität von geographischen Themen im Unterricht bewusst zu reduzieren und dies als Grundlage für die Unterrichtsplanung nutzen zu können (Praktikum!) 
 * Konzeptionell geographische Denkweisen zu verstehen 
 * das damit gewonnene Fachverständnis in einen fachdidaktisch geleiteten Modellierungsprozess von Lehrgegenständen zu überführen
-
 
 ## Kursmerkmale
 6 ECTS im Umfang als Präsenzkurs, der Anwesenheit voraussetzt, sowohl während des Semesters als auch während der Blocktage.
